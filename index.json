@@ -15,5 +15,23 @@
         "baseUrl": "https://remanga.org"
       }
     ]
+  },
+  {
+    "name": "Tachiyomi: Mangahub",
+    "pkg": "eu.kanade.tachiyomi.extension.ru.mangahub",
+    "apk": "tachiyomi-ru.mangahub-v1.4.20.apk",
+    "lang": "ru",
+    "code": 20,
+    "version": "1.4.20",
+    "nsfw": 1,
+    "sources": [
+      {
+        "name": "Mangahub",
+        "lang": "ru",
+        "id": "8601336865408732240",
+        "baseUrl": "https://mangahub.ru",
+        "versionId": 1
+      }
+    ]
   }
 ]
