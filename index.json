@@ -19,7 +19,7 @@
   {
     "name": "Tachiyomi: Mangahub",
     "pkg": "eu.kanade.tachiyomi.extension.ru.mangahub",
-    "apk": "tachiyomi-ru.mangahub-v1.4.20.apk",
+    "apk": "tachiyomi-ru.mangahub-v1.4.20-debug.apk",
     "lang": "ru",
     "code": 20,
     "version": "1.4.20",
